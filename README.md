@@ -16,7 +16,7 @@ motor task is 10 ms
 
 
 How to test project : 
-1.Change value of ( N_INPUT_TEST_CASES ) macro in main.c file , by default = 5 
-2.Write state of every switch in switches.txt 
+1.Change value of ( N_INPUT_TEST_CASES ) macro in main.c file , by default = 5 \n
+2.Write state of every switch in switches.txt  \n
 3.Run project 
 4.Check on output ( angle of motor )in motor.txt 
